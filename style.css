@@ -1,0 +1,25 @@
+body{
+background:#abcdef;
+padding:0;
+margin:0;
+}
+.main{width:960px;margin:25px auto;}
+.header{
+height:100px;
+background:#cfcfcf;}
+
+.logo{float:left;}
+.banner{float:right}
+
+.navbar{height:45px;
+background:silver;}
+.navbar ul{margin:5px;padding-top:5px;}
+.navbar ul li{list-style:none;color:white}
+.navbar li{text-decoration:none;list-style:none;display:inline;font-size:25px;margin:5px;color:white}
+.navbar li a:hover{color:red;text-decoration:none;list-style:none}
+.main_contant{width:655px;background:white;border-right:2px solid gray;
+float:left}
+.sidebar{width:300px;background:pink;
+float:right;height:700px}
+.footer{background:gray;}
+

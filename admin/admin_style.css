@@ -1,0 +1,7 @@
+body{background:gray;margin:0;padding:0;}
+.header{width:100%;background:#abcdef;height:80px;
+border-bottom:5px solid blue;}
+.sidebar{width:250px;float:left;background:#abcdef;
+border-right:5px solid blue;height:600px;}
+.sidebar h2{text-align:center;background:red}
+.header h1{font-size:38px;text-align:center;margin-top:0px}
